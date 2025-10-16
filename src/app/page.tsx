@@ -6,10 +6,10 @@ export default function HomePage() {
       <section id="hero">
         <Hero />
       </section>
-          <section id="cta">
-        <Cta />
+          <section id="features">
+        <Features />
       </section>
     </>
   )
 }
-import Cta from '@/components/sections/home/Cta'
+import Features from '@/components/sections/home/Features'
