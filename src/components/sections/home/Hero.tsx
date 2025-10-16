@@ -8,7 +8,7 @@ import { useSmartNavigation } from '@/hooks/useSmartNavigation';
 
 const DEFAULT_HERO = {
   badge: 'New: Carbon-Neutral Hosting',
-  title: 'Build your sustainable future with',
+  title: 'Start your sustainable future with',
   titleHighlight: 'GreenSpark Solutions',
   description:
     'Launch eco-friendly digital experiences that reduce your carbon footprint while maximizing your business impact. Perfect for conscious entrepreneurs and sustainable brands.',
